@@ -1,4 +1,4 @@
-# Power-Query-Number-Functions
+# Power-Query-Number-Functions #
 NUMBER FUNCTIONS
 1 Add Subtract Multiply Divide
 2 Percentage,Percent Of, Module in Power Query
